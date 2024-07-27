@@ -1,0 +1,2 @@
+- Feel free to talk in GitHub issues, pull requests and discusstions and any other social platforms.
+- Feel free to discuss anything with Lucas James Quinn <lucas.quinn.tech@gmail.com>

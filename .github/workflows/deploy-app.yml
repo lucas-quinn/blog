@@ -44,7 +44,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: lucasjquinn
+          projectName: lucasquinn
           directory: out
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           workingDirectory: web

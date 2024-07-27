@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <div className="text-center">
-        Work in progress. Check my GitHub page.
+        Work in progress. Check out my GitHub page.
         <div></div>
         <Button asChild>
           <Link href="https://github.com/lucas-j-quinn/website">GitHub</Link>
